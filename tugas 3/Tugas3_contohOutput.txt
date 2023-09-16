@@ -105,12 +105,3 @@ f2(x)
                        ***********
                        **************
                         *****************
-
-
-        '''
-        if area < 0:
-            area_new = loncatan_1 - loncatan_2 
-            print((spasi_1 + (area_new * '*') + spasi_2))
-
-        print(spasi_1 + (area * '*') + spasi_2)
-        '''
